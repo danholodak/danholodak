@@ -1,6 +1,6 @@
 ###
 
-![](https://user-images.githubusercontent.com/47993465/234459958-8d766a4c-4cda-4337-9574-7546ff64939f.gif) I'm a filmmaker turned software developer - I'm excited to put these new skills to work to make web apps that are cute and helpful.
+![](https://user-images.githubusercontent.com/47993465/234459958-8d766a4c-4cda-4337-9574-7546ff64939f.gif) I'm a filmmaker turned software developer - I'm excited to put these new skills to work to make web applications that are cute and helpful.
 
 ### Education
 - App Academy 2023

@@ -7,9 +7,9 @@
 - CS50 2022
 
 ### Projects
-- Magellan (a MERN-stack group project for creating+sharing scavenger hunts)
-- Flickster (a full-stack clone of photo website flickr.com)
-- Fruit Loops (a vanilla javascript audio sequncer for making musical loops)
+- [Magellan](https://github.com/stevenpaalz/magellan) (a MERN-stack group project for creating+sharing scavenger hunts)
+- [Flickster](https://github.com/danholodak/Flickster) (a full-stack clone of photo website flickr.com)
+- [Fruit Loops](https://github.com/danholodak/Fruit-Loops) (a vanilla javascript audio sequncer for making musical loops)
 
 ### Hopes and dreams ##
 I'm looking for a role where I can be challenged every day, supported by a hardworking and friendly team.

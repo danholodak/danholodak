@@ -5,6 +5,7 @@
 ### Education
 - App Academy 2023
 - CS50 2022
+- Filmmaking BFA Champlain College 2015
 
 ### Projects
 - [Magellan](https://github.com/stevenpaalz/magellan) (a MERN-stack group project for creating+sharing scavenger hunts)

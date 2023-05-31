@@ -1,6 +1,8 @@
 ###
 
-![](https://user-images.githubusercontent.com/47993465/234459958-8d766a4c-4cda-4337-9574-7546ff64939f.gif) ### Hi, I'm Dan!
+![](https://user-images.githubusercontent.com/47993465/234459958-8d766a4c-4cda-4337-9574-7546ff64939f.gif) 
+### Hi, I'm Dan!
+
 I'm a filmmaker turned software developer - I'm excited to put these new skills to work to make web applications that are cute and helpful.
 
 ### Education

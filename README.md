@@ -11,6 +11,8 @@ I'm a filmmaker turned software developer - I'm excited to put these new skills 
 - Filmmaking BFA Champlain College 2015
 
 ### Projects
+- [Sorry Darling](https://github.com/danholodak/Sorry-Darling) 🎸📄🌹 (a website for indie band Sorry Darling)
+- [Uncommon Helper](https://github.com/danholodak/Uncommon-Helper) 📼📑⚙️ (a utility to speed up a process of inputting custom text into premade product design files)
 - [All U](https://github.com/randydhack/allu) 👚 🧢 👕 (a full-stack hackathon project rebuilding the website of an apparel wholesaler)
 - [Magellan](https://github.com/stevenpaalz/magellan) 🗺 🧭 📍 (a MERN-stack group project for creating+sharing scavenger hunts)
 - [Flickster](https://github.com/danholodak/Flickster) 📸 🏞 💙💖 (a full-stack clone of photo website flickr.com)
